@@ -1,0 +1,81 @@
+TMT:word2vec-mac-master MinhTri$ ./word-analogy corpus.bin
+Enter word (EXIT to break): politics
+
+Word: politics  Position in vocabulary: 1764
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                          soaring.		0.859098
+                                              4.21		0.855930
+                                             times		0.851998
+                                           #Trump.		0.845365
+                                             knows		0.843575
+                                              good		0.836803
+                                  Current-American		0.834254
+                                            stands		0.830490
+                                          liberals		0.825006
+                                               its		0.824097
+Enter word (EXIT to break): Trump
+
+Word: Trump  Position in vocabulary: 38
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                          #Stumped		0.647869
+                      http://t.co/O5v9oX3pydCarson		0.641029
+                                            Donald		0.639887
+                                     @LindaSuhler:		0.601711
+                                            Blasts		0.562340
+                                              vote		0.542295
+                                         Michigan!		0.536790
+                                       @WashTimes:		0.530438
+                                  #Trump2016Carson		0.529623
+                                          Compares		0.506741
+Enter word (EXIT to break): president
+
+Word: president  Position in vocabulary: 847
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                            taking		0.874387
+                                            chance		0.872044
+                                             worse		0.865401
+                                              Josh		0.856510
+                                              gave		0.852727
+                                             class		0.849465
+                                             likes		0.843745
+                                           Muslims		0.836635
+                                           defense		0.835478
+                                           doesn't		0.833406
+Enter word (EXIT to break): candidate
+
+Word: candidate  Position in vocabulary: 578
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                         political		0.819578
+                                          somebody		0.811906
+                                              told		0.809150
+                                            dinner		0.808545
+                                          America.		0.799716
+                                               few		0.797652
+                                           liberal		0.797198
+                                            hard!-		0.791712
+                                            donate		0.789009
+                                       threatening		0.787662
+Enter word (EXIT to break): opinion
+
+Word: opinion  Position in vocabulary: 481
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                          American		0.864201
+                                       Islamophobe		0.853458
+                                  #LiberalDelusion		0.845501
+                                            Voter?		0.843300
+                                                an		0.813199
+                                        correcting		0.799435
+                                          😑🔫		0.793326
+                                           racist,		0.698671
+                                              tune		0.657279
+                                           tunnel,		0.647378

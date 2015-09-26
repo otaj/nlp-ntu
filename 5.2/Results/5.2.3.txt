@@ -1,0 +1,157 @@
+TMT:word2vec-mac-master MinhTri$ ./regularities corpus.bin
+Enter three words (EXIT to break): president politician bad
+
+Word: president  Position in vocabulary: 847
+
+Word: politician  Position in vocabulary: 0
+Out of dictionary word!
+Enter three words (EXIT to break): president man bad
+
+Word: president  Position in vocabulary: 847
+
+Word: man  Position in vocabulary: 173
+
+Word: bad  Position in vocabulary: 897
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                             media		0.622181
+                                         "correct"		0.578245
+                                           demands		0.576727
+                                               who		0.565182
+                                                 i		0.559465
+                                              Pres		0.548895
+                                              talk		0.548726
+                                            didn't		0.546003
+                                        immigrant,		0.542181
+                                            system		0.539909
+                                           defends		0.539810
+                                               but		0.538626
+                                      non-response		0.537484
+                                              want		0.537378
+                                              last		0.535085
+                                              told		0.531328
+                                   @He_Has_Failed:		0.530307
+                                          Egyptian		0.527701
+                                               Why		0.524850
+                                            called		0.524316
+                                              many		0.524268
+                                               say		0.521992
+                                                MT		0.519793
+                                           certain		0.516807
+                                         "Muslim,"		0.516666
+                                             There		0.514817
+                                          somebody		0.510665
+                                          outraged		0.509638
+                                          question		0.504434
+                                               –		0.501534
+                                             right		0.500293
+                                          defended		0.495415
+                                         shouldn't		0.495315
+                                          probably		0.495121
+                                          predicts		0.495030
+                                           ordered		0.493748
+                                                am		0.493694
+                                         Europeans		0.492366
+                                          anything		0.492272
+                                        immigrants		0.491321
+Enter three words (EXIT to break): candidate trump nice 
+
+Word: candidate  Position in vocabulary: 578
+
+Word: trump  Position in vocabulary: 542
+
+Word: nice  Position in vocabulary: 2321
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                            allday		0.689042
+                                            PISSED		0.666104
+                                  @ChrisMehretab1:		0.626350
+                                           "donald		0.609026
+                           https://t.co/LcR5oj3Qcy		0.607858
+                            http://t.co/RcITCt4qui		0.607740
+                                            Dance?		0.597397
+                                               Bye		0.596036
+                                           radical		0.594548
+                                              paid		0.585199
+                                            brings		0.584402
+                                            attack		0.582554
+                                          stronger		0.579588
+                                              tune		0.578586
+                                             2008,		0.570549
+                                               Rid		0.565599
+                          http://t.co/YryYW8Nk6sRT		0.564590
+                                   @OutnumberedFNC		0.559977
+                         https://t.co/tZQz0q1mqaRT		0.557644
+                                   @HURRICANEPAUL:		0.556603
+                          http://t.co/ge7uBNIPNWRT		0.555208
+                                          bet…RT		0.555157
+                           https://t.co/2anOl2mAKb		0.553170
+                                               !!"		0.552676
+                                     #DonaldTrumpI		0.550198
+                                         events?RT		0.549990
+                          http://t.co/A5YFZbiqdNRT		0.546144
+                                     @EricWolfson:		0.544322
+                                           #Europe		0.542795
+                                            Chief.		0.538920
+                                            #islam		0.536474
+                                            accept		0.535665
+                                             Well,		0.535051
+                                           #Carly,		0.534644
+                                                 v		0.534619
+                                     @Trumpmerica:		0.534259
+                                            #Carly		0.532096
+                                           th…RT		0.529464
+                                              Love		0.529264
+                                          Muslims.		0.527270
+Enter three words (EXIT to break): election vote rich
+
+Word: election  Position in vocabulary: 1324
+
+Word: vote  Position in vocabulary: 175
+
+Word: rich  Position in vocabulary: 3511
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                             poll!		0.594140
+                                             isn't		0.570412
+                                          national		0.544798
+                                          register		0.540389
+                                          Latino's		0.539574
+                                    #WhiteGenocide		0.538768
+                                         Michigan!		0.535059
+                                        COMPASSION		0.524987
+                                           Service		0.516256
+                                               plz		0.511107
+                                           Primary		0.510850
+                                             'This		0.508565
+                                 @Beowulf_Aragorn:		0.502970
+                                    #Cuckservative		0.502309
+                                               HAS		0.501507
+                                         Secretary		0.497044
+                                             Worth		0.494568
+                                            Archie		0.494034
+                                    re-tweeting...		0.494001
+                                               hot		0.488640
+                                            across		0.483777
+                                             SMART		0.483514
+                                       "TRUMP"THIS		0.482780
+                                  @LindseyGrahamSC		0.481750
+                                               us!		0.481515
+                                              Nazi		0.481300
+                                        John.…RT		0.477913
+                                           @cnnbrk		0.474150
+                                               18+		0.469071
+                                             seeks		0.468396
+                                           PATRIOT		0.467868
+                                            Virgil		0.466413
+                                            McCain		0.464911
+                                               tax		0.457004
+                                               bad		0.456870
+                                         Europeans		0.456774
+                                            points		0.455371
+                                      @Morning_Joe		0.455125
+                                           working		0.454393
+                                        @MJBodary:		0.454298
