@@ -1,0 +1,108 @@
+@relation Twitter
+
+@attribute TwitterNum numeric
+@attribute body string
+@attribute classOfTweet {pos,neg}
+
+@data
+
+1230585663,'He didnt hit me up  I wouldve at least asked for a lap dance before I blocked him..',neg
+1230926779,'URL - Sometimes I wish I was tall enough to model. I\'m a shorty. ',neg
+1227376030,'that sounds awesome, good to hear! ',pos
+1229142919,'Feeling weird... and a little sick. Might need to have an extra-long sleep...  Can\'t get sick again!!!!',neg
+1231230169,'At the very least til august, but itll be a while ',pos
+1229089798,'So THAT\'s your real backup plan. I was so looking forward to the circus monkey gig',neg
+1230871580,'USER  I\'m thinkin Amy Winehouse ',pos
+1229013116,'Um, okay, so it looks like EVERYONE has decided to ski on the same sunny morning. I\'m out to direct cars in the parking lot ',pos
+1230261399,'some guy walking while projectile vomiting -- since you ask ',pos
+1229098052,'been at the hospital all morning its a bad day 4me ',neg
+1229360242,'I had nothing better to do anyway and had the laptop on my lap  Nice reindeer btw',pos
+1230215988,'happy christmas - may your sack be always full : )',pos
+1230497657,'A nice post on end of year web checklist.  I\'m pretty sure my non-profit would fail this list.      URL',neg
+1228402382,'craving sushi but the places are closed due to all the snow  I guess I\'ll have to have my red beans n\' rice I cooked instead.',neg
+1230003448,'i\'m so tired... i go sleep cuz little time... i\'ve got chrismas here ',pos
+1230124047,'Was about as productive at work today as piece of wet firewood with dry rot. And woodworm. Yoga at the gym was great though! ',pos
+1229370798,'zie je tweet nu pas, zat in  trein van 7.44. Ma\'ja ben nu al een tijdje op plaats van bestemming  Zat je ook in die trein?',pos
+1230142762,'Had to duck out of the Big Screen Bonanza; helping Stephanie decorate the tree ',pos
+1230496174,'Homemade chicken soup is simmering on stove and making the house smell sooo good. Dinner is going to be yummy tonight. ',pos
+1230751003,'So X-Mas is over. I gotta think of something to do on New Years Eve....at midnight ....',pos
+1230272520,'My chest still feels full of ick  when will it enddddd?',neg
+1229368602,'Has anyone by chance ever rented a mac? Any good connections? A way to get one here by tomorrow? I\'m in Joplin, Missouri no Apple store ',neg
+1229838761,'Making a new twinkle account soon...\"Tootsierella\" look for me ',pos
+1228698141,'14th 6.40pm on sofa with Mori, both snug and warm and wondering if West Ham can hang on for 10mins. Looks like Chinese take out tonight',pos
+1229362750,'Just got thru handling the busted pipe situation  Whoever built house didn\'t insulate pipes on outside wall.. Lots of drywall work tomorrw',neg
+1229826277,'Any DFW peeps up for a tweetup or something Sunday/monday night, I\'ll be home alone ',pos
+1229200637,'my best friend\'s 12 yr old Golden Retriever died this morning   & her Hubs is outta town. We went over to help... very sad...',neg
+1230268383,'Just found out me and USER are having a little tweet ',pos
+1229202092,'Haha, I\'d like to see that. ',pos
+1229708743,'i\'m so sad. geeks radio is only available from 15 Dec. ',pos
+1228452822,'Ooh - thanks for the tip - I\'ll get last.fm on now. In work again today but not many others so they won\'t mind ',pos
+1230714336,'Looking at your blog, your code is very solid. Me likey  So hard to find decent PHP guys that don\'t charge more than me :P',pos
+1230173673,'Because of my stomach being fucked up. I can\'t do SHIT. I have been eating nothing but chicken soup and crackers for weeks',neg
+1231003960,'Work is boring as of 3 o\'clock\nCome work out people! ',pos
+1228489591,'We are havind \"2nd Xmas\" here today. Opening gifts with visiting grandparents since we were on a cruise for real Xmas. It\'s a two-fer ',pos
+1229705729,'super! Thank you so much for sharing ',pos
+1228704989,'Here\'s a question How to ya get from Kansas City MO to Seattle WA, when the weather is bad Driving cuz gotta take a 5th wheel RV ',pos
+1229720679,'sounds like a plan  Will call you when I start my snow trot to the Billyburg lol',pos
+1229706223,'think your snow is on its way here. 3 to 5 tomorrow & 4 to 8 wed. We are movin\' in on the dec record. ',pos
+1229282353,'is going to bed now, 3:13am  my fave time. and lmao USER Helenaists taking over Twitter &gt;:D WOOOO! night lovelies &lt;3',pos
+1230301731,'That said, bumper sticker idea: \"I brake for black holes... but it doesn\'t matter\". ',pos
+1230695123,'now what do u mean by \"need based consumption\" I had that was to do with alcholoh only! ',pos
+1231111507,'awe! girl, there are no christmas specials on at all, i must have missed them and xmas hasnt been that great all for me! ',neg
+1230240708,'thanks! ',pos
+1228967962,'I think the weather might be worse for our walk on Friday. ',pos
+1228623008,'Tell Us..tell us. ',pos
+1228936931,'Its from the Fresh & Easy - do you have that store there? I love it! And the chocolate too! ',pos
+1228172274,'That\'s funny. I like my men straight too. ',pos
+1231174931,'roasted sweet potatoes are really tasty..dnt laugh but I\'m a vegetarian tiger ',pos
+1229398421,'Nothing disappoints like a disappointing taco. They burned the chorizo! ',neg
+1229424706,'Another funny one  URL',pos
+1230959834,'noooo. don\'t quit the KAT-TUN fandom please ',neg
+1229187419,'yup it is . Wish I had more time for admin stuff',pos
+1229126981,'now live in Kent though ',neg
+1229006551,'thanks u ',pos
+1229693587,'I\'m good here. I still think we should get hostile fire pay. . At minimum, hazard duty pay. I was almost hit by metro bus.',pos
+1230507607,'Simply Having a Wonderful Christmastime  ---McCartney & Wings, \'79',pos
+1230017775,'This area is a great vacation spot! You two would have a great time at the Schulz museum plus so much more! ',pos
+1231011497,'Ditto ',pos
+1229542804,'Two shoots uploaded today... One more to go. ',pos
+1230607980,'Tweet number 1337 lmfao!! next will be a screen cap ',pos
+1220727495,'Drawing a portrait of a woman with orange hair! Come and watch, if you\'d like  URL',pos
+1228842503,'bon appetite  (soon time for my evening G&T on the train home *does happy dance*)',pos
+1228980711,'woah, my twitterfeed is working now. sorry, I\'ve been busy in my shops.! yikes, I should slow it down a bit.  But i have limite time. ',neg
+1231277988,'USER According to Ysabella, there\'s a \"class action lawsuit with a bunch of music folks against youtube\". That\'s why. ',neg
+1230986416,'Vanmorgen super getraind. Dat gaat nog lekkerder als je weet dat er natuurijs aan komt )))',pos
+1229409177,'coolio. I like that you\'re \'kinda\' driving. In other countries, you either are or you\'re not.  But I\'m cool either way.',pos
+1228349422,'retweeting USER reading Humanity+ magazine URL nice find! ',pos
+1230142338,'Just bought a couch set for my new duplex, and that is just the tip of the awesome iceberg ',pos
+1229978837,'Getting through the day quite well considering the long night. Thanks to USER and the guys! Now can I have my money back... ? ',pos
+1229943190,'indigo_bow is currently out of her energy hub, but please feel free to leave a message',pos
+1230405537,'How can it go from 60 degrees one day to 20 the next? I love it though when they say one inch of snow an hour! No snow to 6 in. in 6 hours',pos
+1229450855,'hey twitter land ',pos
+1230905501,'needs one of these next to open up new doors for my baking  URL',pos
+1230967194,'Listening to dr Sears ',pos
+1230768555,'I have been given a Persian name, Aria, 4 d rest of my stay here. I like it! ',pos
+1231101792,'Agreed! If you want to, I\'ll visit your town sometime ',pos
+1230907652,'Yum!! I\'m so hungry now!! ',pos
+1229197238,'URL ',pos
+1230640689,'Re: \"The Chinese Buffett\". EXCELLENT. U should submit to Magazines. That\'s right, u were an English Lit major ',pos
+1231115370,'I am having a very Mondayish Monday! ',neg
+1230663975,'First to arrive ... as usual. D\'oh. Enjoying glass of red. It\'s all good! ',pos
+1230396195,'Once upon a time there was a very stupid, very bad man. Then somebody threw a shoe at him, and we all laughed. The end. ',pos
+1231182832,'in the Thermo lab session then free during lunch ',pos
+1231026801,'Father William, while reading Faulkner\'s works in his room at the rectory, burnt his uvula after sipping tea .',pos
+1229315778,'-- I don\'t believe in left and right. I just believe in Yoko. Yoko and me. ',pos
+1229192328,'Boston always thnks they have to best Austin. But we were helping to fill that truck too!  URL',pos
+1230427792,'oh. lol. oo namamansin naman. kilala na kasi nila ako, kung hindi man sa name, sa face. ',pos
+1229996772,'They were playing Wii Sports (Boxing and Tennis).  Sorry for the late reply. ',pos
+1229568041,'jupp! ',pos
+1229844129,'You\'ve got to admit there are some similarities ',pos
+1230318192,'Cereal is one of the best uses for Soy Milk IMO. it\'s perfect really. ',pos
+1229737175,'Danke, Oliver! All the best to you too. ',pos
+1229652304,'Jealous! Wish I could have gone to the Morton\'s party you invited me to awhile back ',neg
+1228430709,'I feel that sam... totally  Happy 2009!',pos
+1230854113,'Sports Authority, so theoretically, there\'s a derby lover in the next President\'s cabinet ',pos
+1228058381,'Great to have you back in action ',pos
+1230520399,'Overslept, just managed to get into work on time but I couldn\'t use the internets in the morning like I usually do ',neg
+1229758297,'yeah  n believe me life is dry bcoz of it. doesnt help when i get \"you sooo shoulda been at this n that the other night!!\" lol',neg
+1228671878,'Deleted 100 of my oldest favorited vids on youtube to make room for newer ones. Darn 650 limit. ',pos
