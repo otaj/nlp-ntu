@@ -1,3 +1,11 @@
+@relation Twitter
+
+@attribute TwitterNum numeric
+@attribute body string
+@attribute classOfTweet {pos,neg}
+
+@data
+
 "Donald Trump's campaign remarks about Mexican immigrants represent a play to the worst parts of society, Vice President Joe Biden said Tuesday. Speaking at a reception marking Hispanic Heritage Month, Biden laid into the businessman turned GOP front-runner -- naming him twice -- as reverting to ""xenophobia"" in a play for votes.",Y
 "As for China, he??ll argue that China is ??stealing?? jobs from the US (there??s the indignation)??and if he were in office, he wouldn??t let the nation ??have its way with us.??",N
 "Enter Donald Trump, who seems to have an innate mastery of this process. He is an ad-man??s dream, a political consultant??s perfect plaything.",N
