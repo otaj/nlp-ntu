@@ -1,3 +1,14 @@
+--- Reddit scripts ---
+Since it is a python script, there is no need to compile.
+However, the API needs to be downloaded and configured by following the instructions in 
+https://praw.readthedocs.org/en/stable/index.html#main-page
+To crawl a subreddit, change the contents in r.get_subreddit('')
+Run after that run the script through python IDLE
+
+--- Twitter scripts ---
+This is written in python too. To run it, you have to first create your own API key
+Then you should be able to run the script after that
+
 --- To compile Word2Vec ---
 - gcc ./5.4_5.5/5.4_5.5/word2vec.c -o word2vec
 - gcc ./5.2/NLP 5.2/distance.c -o distance
