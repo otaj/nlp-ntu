@@ -1,0 +1,81 @@
+TMT:word2vec-mac-master MinhTri$ ./word-analogy GoogleNews-vectors-negative300.bin 
+Enter word (EXIT to break): politics
+
+Word: politics  Position in vocabulary: 2029
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                 partisan_politics		0.683224
+                                          Politics		0.674026
+                                         political		0.671894
+                                           politcs		0.622195
+                                           poltics		0.594164
+                        Lisa_Vorderbrueggen_covers		0.586606
+                                      partisanship		0.573556
+                                       politicians		0.570558
+                                        politician		0.569530
+                                       politicking		0.568017
+Enter word (EXIT to break): Trump
+
+Word: Trump  Position in vocabulary: 13034
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                      Donald_Trump		0.810392
+                          impersonator_entertained		0.594226
+                                      Ivanka_Trump		0.592458
+                                            Ivanka		0.560721
+                                mogul_Donald_Trump		0.559245
+                                       Trump_Tower		0.548555
+                                           Kepcher		0.546859
+                          billionaire_Donald_Trump		0.544727
+                                         Trumpster		0.541282
+                               tycoon_Donald_Trump		0.538397
+Enter word (EXIT to break): president
+
+Word: president  Position in vocabulary: 348
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                         President		0.800628
+                                          chairman		0.670875
+                                    vice_president		0.670023
+                                   chief_executive		0.669128
+                                               CEO		0.659013
+                                          pesident		0.626521
+                                    Vice_President		0.621666
+                                         executive		0.618248
+                                              prez		0.576191
+                                         Presdient		0.571838
+Enter word (EXIT to break): candidate
+
+Word: candidate  Position in vocabulary: 1620
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                        candidates		0.794275
+                                          candiate		0.705062
+                                         Candidate		0.677797
+                                        challenger		0.628802
+                                          canidate		0.623805
+                                         candidacy		0.618346
+                                        candi_date		0.616838
+                                           nominee		0.590141
+                                 mayoral_candidate		0.589086
+                                          cadidate		0.587563
+Enter word (EXIT to break): opinion
+
+Word: opinion  Position in vocabulary: 1966
+
+                                              Word              Distance
+------------------------------------------------------------------------
+                                          opinions		0.716355
+                                            opinon		0.633364
+                                            opnion		0.561680
+                                          Opinions		0.549686
+                                           opinons		0.549233
+                                           Opinion		0.541371
+                                             views		0.524808
+                                         viewpoint		0.524092
+                                          opionion		0.487257
+                                             veiws		0.469507
