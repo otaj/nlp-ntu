@@ -1,0 +1,21 @@
+--- To compile Word2Vec ---
+- gcc ./5.4_5.5/5.4_5.5/word2vec.c -o word2vec
+- gcc ./5.2/NLP 5.2/distance.c -o distance
+- gcc ./5.2/NLP 5.2/regularities.c -o regularities
+- gcc ./5.2/NLP 5.2/word-analogy.c -o word-analogy
+--- Run codes for section 5.2 ---
+- ./word-analogy GoogleNews-vectors-negative300.bin
+- ./word-analogy corpus.bin  
+- ./distance corpus.bin
+- ./regularities corpus.bin
+--- Build models for section 5.4 and 5.5 ---
+- Build a binary corpus file with word2vec
+- Download Weka at http://www.cs.waikato.ac.nz/ml/weka
+- Download TextBlob at https://github.com/sloria/textblob-aptagger/tree/master
+- Use TextBlob to POS tags training and testing sets
+- Open Weka, Choose Explorer, choose an arff file as training set
+- Choose FilteredClassifier as classification model
+- Under FilterClassifier options, choose LibSVM as the library and StringToWordVector as filter
+- Choose an arff file as test set
+- Press Start and note down the performance	
+- Data files (*.arff, *.csv) at ./5.4_5.5
